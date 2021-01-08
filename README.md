@@ -2,10 +2,10 @@
 
 * **Objective** - Attempt to create a website on your own computer
 * **Purpose** - Additional practice with HTML and CSS from scratch
-* **Requirements**
+* **Requirements**:
   
-* Assignment Details can be found at:  
-  * https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/build-websites-on-your-own-computer/modules/local-website-development/projects/dasmoto
+    * Assignment Details can be found at:  
+        * https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/build-websites-on-your-own-computer/modules/local-website-development/projects/dasmoto
 
 # From Codecademy
 
