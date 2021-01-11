@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica;
+  }
+  
+  h1 {
+    background-image: url("../img/pattern.jpeg");
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+  }
+  
+  h2 {
+    color: white;
+    font-size: 32px;
+  }
+  
+  #brushes {
+    background-color: MediumSpringGreen;
+  }
+  
+  #frames {
+    background-color: LightCoral;
+  }
+  
+  #paint {
+    background-color: SkyBlue;
+  }
+  
+  a {
+    color: Blue;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
